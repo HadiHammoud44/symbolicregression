@@ -44,6 +44,3 @@ urllib3==1.26.9
 zipp==3.8.0
 setuptools==62.0.0
 pip==22.0.4
-git+https://github.com/pakamienny/sympytorch
-
-
