@@ -14,7 +14,7 @@ setup(
     long_description=readme,
     long_description_content_type="text/markdown",
     author="Pierre-Alexandre Kamienny, Stéphane d'Ascoli, Guillaume Lample, François Charton",
-    author_email='pakamienny@meta.com, stephane.dascoli@gmail.com, guillaume.lample@gmail.com, fcharton@fb.com'
+    author_email='pakamienny@meta.com, stephane.dascoli@gmail.com, guillaume.lample@gmail.com, fcharton@fb.com',
     url='https://github.com/facebookresearch/symbolicregression',  
     packages=find_packages(),
     install_requires=open("requirements.txt").read().splitlines(),
