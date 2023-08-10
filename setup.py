@@ -17,7 +17,6 @@ setup(
     packages=find_packages(),
     install_requires=open("requirements.txt").read().splitlines(),
     python_requires=">=3.7",
-    dependency_links=['git+https://github.com/pakamienny/sympytorch@main#egg=sympytorch'],
     classifiers=[
         'License :: OSI Approved :: Apache Software License',
         'Programming Language :: Python :: 3',
