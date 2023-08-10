@@ -8,7 +8,8 @@ with open(dir / 'README.md', 'r') as f:
 
 setup(
     name='symbolicregression',
-    version='1.0',             
+    version='1.0',       
+    license='Apache License 2.0',      
     description='Symbolic Regression based on LLMs',
     long_description=readme,
     long_description_content_type="text/markdown",
